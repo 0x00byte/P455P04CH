@@ -4,7 +4,7 @@ init()
 
 from colorama import Fore, Back, Style
 
-print(Fore.RED + 'P455P04CH ::: HACK-IT ACADEMY ::: @PORTHUNTER' + Fore.RESET)
+print(Fore.RED + 'P455P04CH ::: HACK-IT ACADEMY ::: @PORTHUNTER & @0x00byte' + Fore.RESET)
 
 interface = raw_input("Enter the interface to sniff on, e.g: 'eth0' \n") 
 filter_type = raw_input("Enter your filter, e.g: 'port 80' or 'port 80 or port 8080' etc \n") 
